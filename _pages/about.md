@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Mouxing Yang (杨谋星). I am currently a Postdoctoral Fellow at the  [XLearning](https://xlearning-lab.com) research group, College of Computer Science, Sichuan University. I obtained my Ph.D. degree from Sichuan University in Dec. 2025 (ahead of schedule，提前毕业) under the supervision of Prof. [Xi Peng](pengxi.me)
+Hi, I am Mouxing Yang (杨谋星). I am currently a Postdoctoral Fellow at the  [XLearning](https://xlearning-lab.com) research group, College of Computer Science, Sichuan University. I obtained my Ph.D. degree from Sichuan University in Dec. 2025 (ahead of schedule，提前毕业) under the supervision of Prof. [Xi Peng](www.pengxi.me)
 
 My research mainly focuses on Robust Multi-modal Learning and Multi-modal Test-time Computing/Adaptation, with contribution in:
 + Robust Multi-modal Learning: I have worked extensively on tackling challenges such as noisy correspondence (ICLR'26, TPAMI'25, IJCV'24, TIP'24, NeurIPS'24, ICCV'23, CVPR'22, CVPR'21, etc.) and missing modality (TPAMI'26, AAAI'24, TPAMI'23, TPAMI'22, IJCAI'23) in the image-text, multi-view data. For more insights on noisy correspondence, please refer to our repository: [Noisy Correspondence Summary](https://github.com/XLearning-SCU/Awesome-Noisy-Correspondence).
@@ -66,8 +66,8 @@ My research mainly focuses on Robust Multi-modal Learning and Multi-modal Test-t
 <!-- under review -->
 
 # 🎖 Honors and Awards
-- 四川大学第二批“海纳博士后”支持计划 (全校9人).
-- Baidu Research Fellowship (百度奖学金，10 PhD candidates worldwide).
+- 四川大学第二批“海纳博士后”支持计划 (全校9人)
+- Baidu Research Fellowship (百度奖学金，10 PhD candidates worldwide)
 - Fundamental Research Project for Young Ph.D. students from NSFC (国家自然科学基金青年学生基础研究项目(博士生))
 - National Scholarship (国家奖学金， three times)
 
