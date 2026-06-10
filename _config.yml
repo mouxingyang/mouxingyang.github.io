@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=IaRmgrEAAAAJ"
-  email            : "yangmouxing@gmail.com"
+  email            :
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "/XLearning-SCU" # e.g., "github username"
+  github           : # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
