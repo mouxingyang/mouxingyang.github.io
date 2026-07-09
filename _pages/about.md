@@ -21,7 +21,7 @@ Hi, I am Mouxing Yang (杨谋星). I am currently a Research Fellow / Postdoctor
 + Robust Multi-modal Learning: I have worked extensively on tackling challenges such as noisy correspondence (ICLR'26, TPAMI'25, IJCV'24, TIP'24, NeurIPS'24, ICCV'23, CVPR'22, CVPR'21, etc.) and missing modality (TPAMI'26, AAAI'24, TPAMI'23, TPAMI'22, IJCAI'23) in the image-text, multi-view data. For more insights on noisy correspondence, please refer to our repository: [Noisy Correspondence Summary](https://github.com/XLearning-SCU/Awesome-Noisy-Correspondence).
 + Multi-modal Test-time Computing/Adaptation: I believe the future of foundation models lies in self-evolving systems. My recent research focuses on unleashing their potential during inference by addressing reliability challenges in dynamic environments, with applications in multi-modal recognition (ICLR'24, AAAI'26), cross-modal retrieval (ICLR'25, ICML'25), and multi-modal CoT (ICML'26).
 
-杨谋星，四川大学计算机学院研究员（专职科研），入选[博新计划](https://mp.weixin.qq.com/s/nCh48gE1sD7K0LmNfKIXeA)、四川大学海纳博士后支持计划（同批次全校9名），主要研究方向为鲁棒多模态学习（缺失模态、噪声关联）与多模态测试时自适应（基础模型、智能体）。已在Nature子刊及CCF-A类刊物上发表论文20余篇（7篇TPAMI/IJCV），包含一作/通讯作者论文13篇，谷歌学术引用2000余次，获国家自然科学基金青年学生基础研究项目（博士研究生）、第十二届百度奖学金（全球10人，我国中西部地区唯一）等的资助。  
+杨谋星，四川大学计算机学院研究员（专职科研）、研究生导师，入选[博新计划](https://mp.weixin.qq.com/s/nCh48gE1sD7K0LmNfKIXeA)、四川大学海纳博士后支持计划（同批次全校9名），主要研究方向为鲁棒多模态学习（缺失模态、噪声关联）与多模态测试时自适应（基础模型、智能体）。已在Nature子刊及CCF-A类刊物上发表论文20余篇（7篇TPAMI/IJCV），包含一作/通讯作者论文13篇，谷歌学术引用2000余次，获国家自然科学基金青年学生基础研究项目（博士研究生）、第十二届百度奖学金（全球10人，我国中西部地区唯一）等的资助。  
 **招生要求**：如您对我研究方向感兴趣，且有意愿与我一起开展研究，请先阅读[XLearning](https://xlearning-lab.com)实验室招生细则，随后联系 (Email: yangmouxing[at]gmail.com, yangmouxing[at]scu.edu.cn)
 
 # 🔥 News
