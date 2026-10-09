@@ -7,7 +7,7 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "https://scholar.google.com/citations?user=IaRmgrEAAAAJ&hl=zh-CN"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"

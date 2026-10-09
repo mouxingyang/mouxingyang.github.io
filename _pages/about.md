@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Mouxing Yang (杨谋星). I am currently a Research Fellow / Postdoctoral Fellow at the  [XLearning](https://xlearning-lab.com) research group, College of Computer Science, Sichuan University. I obtained my Ph.D. degree from Sichuan University in Dec. 2025 (ahead of schedule，提前毕业) under the supervision of Prof. [Xi Peng](https://cs.scu.edu.cn/info/1282/13557.htm) (彭玺). My work has received over 2,300 citations and has been recognized among the world’s top 2% of scientists and the National Postdoctoral Innovation Talents Support Program, which selects only 18 candidates annually in the Computer Science and Technology discipline across China.
+Hi, I am Mouxing Yang (杨谋星). I am currently a Research Fellow / Postdoctoral Fellow at the  [XLearning](https://xlearning-lab.com) research group, College of Computer Science, Sichuan University. I obtained my Ph.D. degree from Sichuan University in Dec. 2025 (ahead of schedule，提前毕业) under the supervision of Prof. [Xi Peng](https://cs.scu.edu.cn/info/1282/13557.htm) (彭玺). My work has received over 2,300 citations and has been recognized among the World's Top 2% Scientists and the National Postdoctoral Innovation Talents Support Program, which selects only 18 candidates annually in the Computer Science and Technology discipline across China.
 
 I have authored more than 30 papers in tier-1 journals and conferences, including 8 IEEE TPAMI/IJCV papers, 2 ICLR Oral papers (~ top 1% of accepted papers). My work has received over 2,300 citations and has been awarded the World’s Top 2% of Scientists and the National Postdoctoral Innovation Talents Support Program. My research mainly focuses on Reliable Multi-modal Learning, Multi-modal Test-time Computing/Adaptation and Agentic AI in the Wild, with contribution in:
 
@@ -30,7 +30,6 @@ I have authored more than 30 papers in tier-1 journals and conferences, includin
 **招生要求**：如您对我研究方向感兴趣，且有意愿与我一起开展研究，请先阅读[XLearning](https://xlearning-lab.com)实验室招生细则，随后联系 (Email: yangmouxing[at]gmail.com, yangmouxing[at]scu.edu.cn)
 
 # 🔥 News
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 - *2026.09*: &nbsp; Two NeurIPS'26 paper has been accepted. Congrats to Zhichao and Yijie.
 - *2026.08*: &nbsp; I will serve as Area Chair for ICLR'27.
 - *2026.08*: &nbsp; One TPAMI'27 paper has been accepted. Congrats to Haobin.
@@ -42,7 +41,6 @@ I have authored more than 30 papers in tier-1 journals and conferences, includin
 - *2025.05*: &nbsp; One IJCAI'25 paper and two ICML'25 have been accepted. Congrats to Yiding and Guofeng.
 - *2025.02*: &nbsp; I am honored to be awarded the Baidu Research Fellowship (百度奖学金，10 PhD candidates worldwide).
 - *2025.01*: &nbsp; One paper has been accepted by ICLR'25 as Spotlight (acc rate=5.1%). Congrats to Haobin.
-- *2024.12*: &nbsp; My research is granted by Fundamental Research Project for Young Ph.D. students from NSFC (国家自然科学基金青年学生基础研究项目(博士生)).
 - *2024.09*: &nbsp; One TPAMI'25 paper and one NeurIPS'24 paper have been accepted.
 - *2024.02*: &nbsp; One paper has been accepted by TIP'24.
 - *2024.01*: &nbsp; One ICLR'24 paper and one IJCV'24 paper have been accepted.
@@ -75,10 +73,6 @@ I have authored more than 30 papers in tier-1 journals and conferences, includin
 - `TPAMI'23 (ESI Hot Paper)` [Robust Multi-view Clustering with Incomplete Information](http://pengxi.me/wp-content/uploads/2022/03/Robust-Multi-view-Clustering-with-Incomplete-Information.pdf), **Mouxing Yang**, Yunfan Li, Peng Hu, Jinfeng Bai, Jiancheng Lv, Xi Peng
 - `CVPR'21` [Partially View-aligned Representation Learning with Noise-robust Contrastive Loss](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Partially_View-Aligned_Representation_Learning_With_Noise-Robust_Contrastive_Loss_CVPR_2021_paper.pdf), **Mouxing Yang**, Yunfan Li, Zhenyu Huang, Zitao Liu, Peng Hu, Xi Peng  -->
 
-<!-- under review -->
-
-
-
 # 🎖 Honors and Awards
 - World's Top 2% Scientists (全球前 2% 顶尖科学家榜单)
 - National Postdoctoral Innovation Talents Support Program (国家博士后创新人才支持计划)
@@ -86,11 +80,6 @@ I have authored more than 30 papers in tier-1 journals and conferences, includin
 - Baidu Research Fellowship (百度奖学金，10 PhD candidates worldwide)
 - Fundamental Research Project for Young Ph.D. students from NSFC (国家自然科学基金青年学生基础研究项目(博士生))
 - National Scholarship (国家奖学金， three times)
-
-<!-- # 📖 Educations
-
-- 2020.09 - now, Ph.D. student, Sichuan Univeristy, Chengdu.
-- 2016.09 - 2020.06, Undergraduate, Sichuan Univeristy, Chengdu. -->
 
 # 💬 Invited Talks
 - *2026.07*, *Imperfect Chain-of-Thoughts in Multi-modal Reasoning*, Special Sessions of ChinaMM 2026, Taiyuan
