@@ -26,6 +26,7 @@ I have authored more than 30 papers in tier-1 journals and conferences, includin
 + Agentic AI in the Wild: I am currently exploring how to extend LLM agents to diverse, open-ended real-world scenarios, with recent work on skill retrieval, software engineering, and efficient coding agents. More studies are underway.
 
 杨谋星，四川大学计算机学院研究员（专职科研）、研究生导师，入选国家博新计划、全球前2%顶尖科学家年度榜单，主要研究方向为鲁棒多模态学习（缺失模态、噪声关联）、多模态测试时自适应、Agentic AI。已在Nature子刊及CCF-A类刊物上发表论文30余篇，谷歌学术引用2300余次，获国自然青C项目、国自然博士生项目、第十二届百度奖学金（全球10人，我国中西部地区唯一）等的资助。  
+
 **招生要求**：如您对我研究方向感兴趣，且有意愿与我一起开展研究，请先阅读[XLearning](https://xlearning-lab.com)实验室招生细则，随后联系 (Email: yangmouxing[at]gmail.com, yangmouxing[at]scu.edu.cn)
 
 # 🔥 News
@@ -72,11 +73,11 @@ I have authored more than 30 papers in tier-1 journals and conferences, includin
 - `IJCV'24` [Robust Object Re-identification with Coupled Noisy Labels](http://pengxi.me/wp-content/uploads/2024/02/online_version.pdf), **Mouxing Yang**, Zhenyu Huang, Xi Peng
 - `CVPR'22` [Learning with Twin Noisy Labels for Visible-Infrared Person Re-Identification](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Learning_With_Twin_Noisy_Labels_for_Visible-Infrared_Person_Re-Identification_CVPR_2022_paper.pdf), **Mouxing Yang**, Zhenyu Huang, Peng Hu, Taihao Li, Jiancheng Lv, Xi Peng
 - `TPAMI'23 (ESI Hot Paper)` [Robust Multi-view Clustering with Incomplete Information](http://pengxi.me/wp-content/uploads/2022/03/Robust-Multi-view-Clustering-with-Incomplete-Information.pdf), **Mouxing Yang**, Yunfan Li, Peng Hu, Jinfeng Bai, Jiancheng Lv, Xi Peng
-- `CVPR'21` [Partially View-aligned Representation Learning with Noise-robust Contrastive Loss](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Partially_View-Aligned_Representation_Learning_With_Noise-Robust_Contrastive_Loss_CVPR_2021_paper.pdf), **Mouxing Yang**, Yunfan Li, Zhenyu Huang, Zitao Liu, Peng Hu, Xi Peng
+- `CVPR'21` [Partially View-aligned Representation Learning with Noise-robust Contrastive Loss](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Partially_View-Aligned_Representation_Learning_With_Noise-Robust_Contrastive_Loss_CVPR_2021_paper.pdf), **Mouxing Yang**, Yunfan Li, Zhenyu Huang, Zitao Liu, Peng Hu, Xi Peng  -->
 
 <!-- under review -->
 
--->
+
 
 # 🎖 Honors and Awards
 - World's Top 2% Scientists (全球前 2% 顶尖科学家榜单)
