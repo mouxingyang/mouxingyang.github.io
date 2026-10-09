@@ -17,15 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Mouxing Yang (杨谋星). I am currently a Research Fellow / Postdoctoral Fellow at the  [XLearning](https://xlearning-lab.com) research group, College of Computer Science, Sichuan University. I obtained my Ph.D. degree from Sichuan University in Dec. 2025 (ahead of schedule，提前毕业) under the supervision of Prof. [Xi Peng](https://cs.scu.edu.cn/info/1282/13557.htm) (彭玺). My research mainly focuses on Robust Multi-modal Learning and Multi-modal Test-time Computing/Adaptation, with contribution in:
-+ Robust Multi-modal Learning: I have worked extensively on tackling challenges such as noisy correspondence (ICLR'26, TPAMI'25, IJCV'24, TIP'24, NeurIPS'24, ICCV'23, CVPR'22, CVPR'21, etc.) and missing modality (TPAMI'26, AAAI'24, TPAMI'23, TPAMI'22, IJCAI'23) in the image-text, multi-view data. For more insights on noisy correspondence, please refer to our repository: [Noisy Correspondence Summary](https://github.com/XLearning-SCU/Awesome-Noisy-Correspondence).
-+ Multi-modal Test-time Computing/Adaptation: I believe the future of foundation models lies in self-evolving systems. My recent research focuses on unleashing their potential during inference by addressing reliability challenges in dynamic environments, with applications in multi-modal recognition (ICLR'24, AAAI'26), cross-modal retrieval (ICLR'25, ICML'25), and multi-modal CoT (ICML'26).
+Hi, I am Mouxing Yang (杨谋星). I am currently a Research Fellow / Postdoctoral Fellow at the  [XLearning](https://xlearning-lab.com) research group, College of Computer Science, Sichuan University. I obtained my Ph.D. degree from Sichuan University in Dec. 2025 (ahead of schedule，提前毕业) under the supervision of Prof. [Xi Peng](https://cs.scu.edu.cn/info/1282/13557.htm) (彭玺). My work has received over 2,300 citations and has been recognized among the world’s top 2% of scientists and the National Postdoctoral Innovation Talents Support Program, which selects only 18 candidates annually in the Computer Science and Technology discipline across China.
 
-杨谋星，四川大学计算机学院研究员（专职科研）、研究生导师，入选博新计划、四川大学海纳博士后支持计划（同批次全校9名），主要研究方向为鲁棒多模态学习（缺失模态、噪声关联）与多模态测试时自适应（大模型、智能体）。已在Nature子刊及CCF-A类刊物上发表论文20余篇（7篇TPAMI/IJCV），包含一作/通讯作者论文13篇，谷歌学术引用2100余次，获国家自然科学基金青年学生基础研究项目（博士研究生）、第十二届百度奖学金（全球10人，我国中西部地区唯一）等的资助。  
+I have authored more than 30 papers in tier-1 journals and conferences, including 8 IEEE TPAMI/IJCV papers, 2 ICLR Oral papers (~ top 1% of accepted papers). My work has received over 2,300 citations and has been awarded the World’s Top 2% of Scientists and the National Postdoctoral Innovation Talents Support Program. My research mainly focuses on Reliable Multi-modal Learning, Multi-modal Test-time Computing/Adaptation and Agentic AI in the Wild, with contribution in:
+
++ Reliable Multi-modal Learning: I have worked extensively on tackling challenges such as noisy correspondence (NeurIPS'26, ICLR'26, TPAMI'26, TPAMI'25, IJCV'24, TIP'24, NeurIPS'24, ICCV'23, etc.) and missing modality (TPAMI'26, AAAI'24, TPAMI'23, TPAMI'22) in the image-text, multi-view data. For more insights on noisy correspondence, please refer to our repository: [Noisy Correspondence Summary](https://github.com/XLearning-SCU/Awesome-Noisy-Correspondence).
++ Multi-modal Test-time Computing/Adaptation: I believe the future of foundation models lies in self-evolving systems. My recent research focuses on unleashing their potential during inference by addressing reliability challenges in dynamic environments, with applications in multi-modal recognition (ICLR'24, AAAI'26), cross-modal retrieval (TPAMI'26, ICLR'25, ICML'25), and multi-modal CoT (ICML'26).
++ Agentic AI in the Wild: I am currently exploring how to extend LLM agents to diverse, open-ended real-world scenarios, with recent work on skill retrieval, software engineering, and efficient coding agents. More studies are underway.
+
+杨谋星，四川大学计算机学院研究员（专职科研）、研究生导师，入选国家博新计划、全球前2%顶尖科学家年度榜单，主要研究方向为鲁棒多模态学习（缺失模态、噪声关联）、多模态测试时自适应、Agentic AI。已在Nature子刊及CCF-A类刊物上发表论文30余篇，谷歌学术引用2300余次，获国自然青C项目、国自然博士生项目、第十二届百度奖学金（全球10人，我国中西部地区唯一）等的资助。  
 **招生要求**：如您对我研究方向感兴趣，且有意愿与我一起开展研究，请先阅读[XLearning](https://xlearning-lab.com)实验室招生细则，随后联系 (Email: yangmouxing[at]gmail.com, yangmouxing[at]scu.edu.cn)
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2026.09*: &nbsp; Two NeurIPS'26 paper has been accepted. Congrats to Zhichao and Yijie.
+- *2026.08*: &nbsp; I will serve as Area Chair for ICLR'27.
+- *2026.08*: &nbsp; One TPAMI'27 paper has been accepted. Congrats to Haobin.
+- *2026.08*: &nbsp; I will serve as SPC member for AAAI'27.
 - *2026.05*: &nbsp; Two ICML'26 paper have been accepted. Congrats to Haobin and Yuxin.
 - *2026.02*: &nbsp; Two ICLR'26 paper have been accepted as Orals (~1.3%). Big Congrats to Haobin and Haochen.
 - *2025.12*: &nbsp; One TPAMI'26 paper has been accepted. Congrats to Haobin.
@@ -45,6 +53,8 @@ Hi, I am Mouxing Yang (杨谋星). I am currently a Research Fellow / Postdoctor
 - *2022.03*: &nbsp; One paper has been accepted by CVPR'22.
 - *2022.02*: &nbsp; One paper has been accepted by TPAMI'23.
 - *2021.03*: &nbsp; One paper has been accepted by CVPR'21.
+
+<!-- 
 
 # 📝 Selected Publications 
 
@@ -66,7 +76,10 @@ Hi, I am Mouxing Yang (杨谋星). I am currently a Research Fellow / Postdoctor
 
 <!-- under review -->
 
+-->
+
 # 🎖 Honors and Awards
+- World's Top 2% Scientists (全球前 2% 顶尖科学家榜单)
 - National Postdoctoral Innovation Talents Support Program (国家博士后创新人才支持计划)
 - 四川大学第二批“海纳博士后”支持计划 (全校9人)
 - Baidu Research Fellowship (百度奖学金，10 PhD candidates worldwide)
@@ -78,29 +91,16 @@ Hi, I am Mouxing Yang (杨谋星). I am currently a Research Fellow / Postdoctor
 - 2020.09 - now, Ph.D. student, Sichuan Univeristy, Chengdu.
 - 2016.09 - 2020.06, Undergraduate, Sichuan Univeristy, Chengdu. -->
 
-<!-- 
-
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2026.07*, *Imperfect Chain-of-Thoughts in Multi-modal Reasoning*, Special Sessions of ChinaMM 2026, Taiyuan
+- *2025.09*, *Learning with Noisy Correspondence*, Special Sessions of the 22nd Annual Academic Conference on Signal Processing of CIE, Beijing
+- *2022.06*, *Noisy Correspondences: A New Paradigm for Learning with Noisy Labels*, TrustML Young Scientist Seminar, RIKEN AIP (Online)
+- *2022.05*, CVPR 2022 Pre-conference Sharing Session, Chengdu
 
-
-# 💻 
--->
 # 🙋 Service
-<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
-
-<!-- - Journal Reviewer of IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Systems, Man and Cybernetics: Systems. -->
-
-- **Conference AC/SPC**: AAAI
+- **Conference AC/SPC**: ICLR, AAAI
 
 - **Journal Reviewer**: IEEE TPAMI, IEEE TIP, IEEE TKDE, etc.
 
-- **Conference Reviewer**: ICLR, NeurIPS, ICML, CVPR, ICCV, etc.
-<!-- - Conference Reviewer: of ICLR 2023, NeurIPS 2023, ICML 2023, ICCV 2023, AAAI 2023. -->
-<!-- , CICAI 2021-2022, ICIG 2021, ACML 2021, PRCV 2021-2022 -->
-
-<!-- 
-# 💬 Talks ~
- -->
+- **Conference Reviewer**: ICLR, NeurIPS (Top reviewer), ICML (Gold reviewer), CVPR, ICCV, etc.
 
